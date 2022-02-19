@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--【win】Ctrl+F /【Mac】command+F 查询 -->
+<!-- 本查询文件由微博/酷安 @胖胖和哒哒 创建，为了方便主题/图标包设计师快速查询包名代码适配用。请广而告之，避免更多的人走弯路 -->
+
+<!-- 代码释疑 举个例子 -->
+<!-- item component="ComponentInfo{com.wps.excellentclass/com.wps.excellentclass.MainActivity}" drawable="wps_excellentclass" / -->
+<!-- 上面这一行ComponentInfo{}大括号内 com.wps.excellentclass 就是包名，com.wps.excellentclass.MainActivity 就是包名进程，可直接复制粘贴使用 -->
 <resources>
     <!-- 花火阅读 -->
     <item component="ComponentInfo{tech.gentleflow.fireworksreader/tech.gentleflow.fireworksreader.MainActivity}" drawable="fireworks_reader" />
