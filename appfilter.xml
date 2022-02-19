@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- 花火阅读 -->
+    <item component="ComponentInfo{tech.gentleflow.fireworksreader/tech.gentleflow.fireworksreader.MainActivity}" drawable="fireworks_reader" />
+    <!-- 心心 -->
+    <item component="ComponentInfo{com.kaluli/com.xinmei.xinxinapp.module.home.ui.WelcomeActivity}" drawable="xinxin" />
+    <!-- HAYLOU -->
+    <item component="ComponentInfo{com.liesheng.haylou/com.liesheng.haylou.ui.launch.LaunchActivity}" drawable="haylou" />
+    <!-- 壮观 -->
+    <item component="ComponentInfo{cn.com.gxnews.hongdou/cn.com.gxnews.hongdou.HelloActivity}" drawable="gxnews" />
+    <!-- 象司机 -->
+    <item component="ComponentInfo{com.yixc.xsj/com.yixc.student.misc.view.SplashActivity}" drawable="xiangsiji" />
+    <!-- 江苏税务 -->
+    <item component="ComponentInfo{cn.gov.chinatax.jiangsu.etax.app/io.dcloud.PandoraEntry}" drawable="tax_jiangsu" />
+    <!-- 通知转发  -->
+    <item component="ComponentInfo{com.smilesoft.notifyshare/com.smilesoft.notifyshare.MainActivity}" drawable="notify_share" />
+    <!-- 掌上考研 -->
+    <item component="ComponentInfo{cn.eol.kaoyan/cn.eol.kaoyan.MainActivity}" drawable="eol_kaoyan" />
+    <!-- 青蛙Todo / FrogTodo -->
+    <item component="ComponentInfo{com.shuge888.frogtodo/com.shuge888.frogtodo.MainActivity}" drawable="frog_todo" />
+    <!-- WPS精品课 -->
+    <item component="ComponentInfo{com.wps.excellentclass/com.wps.excellentclass.MainActivity}" drawable="wps_excellentclass" />
+    <!-- Telegram X -->
+    <item component="ComponentInfo{org.thunderdog.challegram/org.thunderdog.challegram.MainActivity}" drawable="telegram_x"/>
+    <!-- Dcoder -->
+	<item component="ComponentInfo{com.paprbit.dcoder/com.paprbit.dcoder.splash.Splash}" drawable="dcoder"/>
+    <!-- CoinCalc -->
+	<item component="ComponentInfo{com.samruston.flip/com.samruston.flip.Launcher}" drawable="coincalc"/>
+    <!-- LK -->
+	<item component="ComponentInfo{net.lk.qingguo/net.lk.qingguo.MainActivity}" drawable="lk"/>
+    <!-- Code -->
+	<item component="ComponentInfo{com.su.codeplus/com.su.codeplus.View.Activity.MainActivity}" drawable="code"/>
+    <!-- 南丁园 -->
+    <item component="ComponentInfo{uni.UNI8719532/io.dcloud.PandoraEntry}" drawable="nandingyuan" />
+    <!-- i襄阳 -->
+    <item component="ComponentInfo{com.xiangyang.xyzw/com.xiangyang.xyzw.activity.SplashActivity}" drawable="ixiangyang" />
+    <!-- 鄂汇办 -->
+    <item component="ComponentInfo{cn.cty.hbzw/cn.cty.hbzw.activity.SplashActivity}" drawable="ehuiban" />
+    <!-- 肇庆出行 -->
+    <item component="ComponentInfo{com.cictec.zhaoqing.intelligence.travel/com.cictec.zhaoqing.intelligence.travel.LoadingActivity}" drawable="zhaoqing_travel" />
+    <!-- 嗨探 / 嗨探 -->
+    <item component="ComponentInfo{com.manwei.djz/com.manwei.djz.module.splash.SplashActivity}" drawable="haitan" />
+    <!-- DM查债通 -->
+    <item component="ComponentInfo{com.innodealing.raymonkey/com.innodealing.raymonkey.mvp.ui.activity.SplashActivity}" drawable="dealing_matrix" />
+</resources>
