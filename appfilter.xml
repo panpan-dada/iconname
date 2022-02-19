@@ -23,13 +23,13 @@
     <!-- Telegram X -->
     <item component="ComponentInfo{org.thunderdog.challegram/org.thunderdog.challegram.MainActivity}" drawable="telegram_x"/>
     <!-- Dcoder -->
-	<item component="ComponentInfo{com.paprbit.dcoder/com.paprbit.dcoder.splash.Splash}" drawable="dcoder"/>
+    <item component="ComponentInfo{com.paprbit.dcoder/com.paprbit.dcoder.splash.Splash}" drawable="dcoder"/>
     <!-- CoinCalc -->
-	<item component="ComponentInfo{com.samruston.flip/com.samruston.flip.Launcher}" drawable="coincalc"/>
+    <item component="ComponentInfo{com.samruston.flip/com.samruston.flip.Launcher}" drawable="coincalc"/>
     <!-- LK -->
-	<item component="ComponentInfo{net.lk.qingguo/net.lk.qingguo.MainActivity}" drawable="lk"/>
+    <item component="ComponentInfo{net.lk.qingguo/net.lk.qingguo.MainActivity}" drawable="lk"/>
     <!-- Code -->
-	<item component="ComponentInfo{com.su.codeplus/com.su.codeplus.View.Activity.MainActivity}" drawable="code"/>
+    <item component="ComponentInfo{com.su.codeplus/com.su.codeplus.View.Activity.MainActivity}" drawable="code"/>
     <!-- 南丁园 -->
     <item component="ComponentInfo{uni.UNI8719532/io.dcloud.PandoraEntry}" drawable="nandingyuan" />
     <!-- i襄阳 -->
