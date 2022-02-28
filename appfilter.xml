@@ -48,4 +48,12 @@
     <item component="ComponentInfo{com.manwei.djz/com.manwei.djz.module.splash.SplashActivity}" drawable="haitan" />
     <!-- DM查债通 -->
     <item component="ComponentInfo{com.innodealing.raymonkey/com.innodealing.raymonkey.mvp.ui.activity.SplashActivity}" drawable="dealing_matrix" />
+    <!-- 法题库 -->
+	<item component="ComponentInfo{com.kaoyanhui.legal/com.zhihuibang.legal.activity.SplashActivity}" drawable="legal"/>
+    <!-- 恒风行 -->
+	<item component="ComponentInfo{com.pandabus.android.hengfengxing/com.pandabus.android.hengfengxing.ui.activity.GuideActivity}" drawable="hengfengxing"/>
+    <!-- 吉里吉里2模拟器 1 3 9 -->
+	<item component="ComponentInfo{org.tvp.kirikiri2_free_10309/org.tvp.kirikiri2_free_10309.Kirikiroid2}" drawable="kirikiri2"/>
+    <!-- FuriganIt -->
+	<item component="ComponentInfo{ua.syt0r.furiganit/ua.syt0r.furiganit.app.main.MainActivity}" drawable="furiganit"/>
 </resources>
