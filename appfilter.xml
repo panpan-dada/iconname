@@ -56,29 +56,29 @@
     <item component="ComponentInfo{org.tvp.kirikiri2_free_10309/org.tvp.kirikiri2_free_10309.Kirikiroid2}" drawable="kirikiri2"/>
     <!-- FuriganIt -->
     <item component="ComponentInfo{ua.syt0r.furiganit/ua.syt0r.furiganit.app.main.MainActivity}" drawable="furiganit"/>
-     <!-- 全局高刷 -->
-	<item component="ComponentInfo{qshn.c11.refresh_rate/qshn.c11.refresh_rate.MainActivity}" drawable="refresh_rate"/>
+    <!-- 全局高刷 -->
+    <item component="ComponentInfo{qshn.c11.refresh_rate/qshn.c11.refresh_rate.MainActivity}" drawable="refresh_rate"/>
     <!-- Photomath -->
-	<item component="ComponentInfo{com.microblink.photomath/com.microblink.photomath.main.activity.LauncherActivity}" drawable="photomath"/>
+    <item component="ComponentInfo{com.microblink.photomath/com.microblink.photomath.main.activity.LauncherActivity}" drawable="photomath"/>
     <item component="ComponentInfo{com.microblink.photomath/com.microblink.photomath.main.MainActivity}" drawable="photomath" />
     <!-- WEB DE Mail -->
-	<item component="ComponentInfo{de.web.mobile.android.mail/com.unitedinternet.portal.ui.HostActivity}" drawable="web_de_mail"/>
+    <item component="ComponentInfo{de.web.mobile.android.mail/com.unitedinternet.portal.ui.HostActivity}" drawable="web_de_mail"/>
     <!-- AZ MediaScanner -->
-	<item component="ComponentInfo{com.foobar.azmediascanner/com.az.mediascanner.HomeActivity}" drawable="az_mediascanner"/>
+    <item component="ComponentInfo{com.foobar.azmediascanner/com.az.mediascanner.HomeActivity}" drawable="az_mediascanner"/>
     <!-- ヤフオク -->
-	<item component="ComponentInfo{jp.co.yahoo.android.yauction/jp.co.yahoo.android.yauction.YAucCategoryNodeActivity}" drawable="yauction"/>
+    <item component="ComponentInfo{jp.co.yahoo.android.yauction/jp.co.yahoo.android.yauction.YAucCategoryNodeActivity}" drawable="yauction"/>
     <!-- Mathway -->
-	<item component="ComponentInfo{com.bagatrix.mathway.android/com.bagatrix.mathway.android.SplashActivity}" drawable="mathway"/>
+    <item component="ComponentInfo{com.bagatrix.mathway.android/com.bagatrix.mathway.android.SplashActivity}" drawable="mathway"/>
     <!-- Languages2 -->
-	<item component="ComponentInfo{com.morelocale.languages2/com.morelocale.languages2.SLSLMainActivity}" drawable="languages2"/>
+    <item component="ComponentInfo{com.morelocale.languages2/com.morelocale.languages2.SLSLMainActivity}" drawable="languages2"/>
     <!-- 全能搜题 -->
-	<item component="ComponentInfo{com.zmide.study/com.zmide.study.MainActivity}" drawable="zmide_study"/>
+    <item component="ComponentInfo{com.zmide.study/com.zmide.study.MainActivity}" drawable="zmide_study"/>
     <!-- 熊猫绘画 -->
-	<item component="ComponentInfo{net.pandapaint.draw/net.pandapaint.draw.activities.FlashActivity}" drawable="panda_paint"/>
+    <item component="ComponentInfo{net.pandapaint.draw/net.pandapaint.draw.activities.FlashActivity}" drawable="panda_paint"/>
     <!-- 哔 -->
-	<item component="ComponentInfo{com.baihualou.beeee/com.baihualou.beeee.WelcomeActivity}" drawable="beeee"/>
+    <item component="ComponentInfo{com.baihualou.beeee/com.baihualou.beeee.WelcomeActivity}" drawable="beeee"/>
     <!-- Lucky Pаtchеr -->
-	<item component="ComponentInfo{ru.sxbuIDfx.pFSOyagrF/ru.sxbuIDfx.pFSOyagrF.MainActivity1}" drawable="lucky_patcher"/>
+    <item component="ComponentInfo{ru.sxbuIDfx.pFSOyagrF/ru.sxbuIDfx.pFSOyagrF.MainActivity1}" drawable="lucky_patcher"/>
     <item component="ComponentInfo{com.android.vending.billing.InAppBillingService.CLON/com.android.vending.billing.InAppBillingService.CLON.MainActivity-Original}" drawable="lucky_patcher" />
     <item component="ComponentInfo{com.android.vending.billing.InAppBillingService.CRAC/com.android.vending.billing.InAppBillingService.CRAC.MainActivity-Original}" drawable="lucky_patcher" />
     <item component="ComponentInfo{com.android.vending.billing.InAppBillingService.LOCK/com.android.vending.billing.InAppBillingService.LOCK.MainActivity-Original}" drawable="lucky_patcher" />
@@ -88,45 +88,45 @@
     <item component="ComponentInfo{com.forpda.lp/com.android.vending.billing.InAppBillingService.LOCK.MainActivity-Original}" drawable="lucky_patcher" />
     <item component="ComponentInfo{com.forpda.lp/com.forpda.lp.patchActivity}" drawable="lucky_patcher" />
     <!-- 翻译大家 -->
-	<item component="ComponentInfo{Fanyi.Familia.all/com.androlua.Welcome}" drawable="fanyi"/>
+    <item component="ComponentInfo{Fanyi.Familia.all/com.androlua.Welcome}" drawable="fanyi"/>
     <!-- 译站 -->
-	<item component="ComponentInfo{com.funny.translation/com.funny.translation.translate.TransActivity}" drawable="funny_translation"/>
+    <item component="ComponentInfo{com.funny.translation/com.funny.translation.translate.TransActivity}" drawable="funny_translation"/>
     <!-- 用其他浏览器打开 -->
-	<item component="ComponentInfo{chenmc.open.with.specified.app/chenmc.app.ui.activities.SettingsActivity}" drawable="open_app"/>
+    <item component="ComponentInfo{chenmc.open.with.specified.app/chenmc.app.ui.activities.SettingsActivity}" drawable="open_app"/>
     <!-- 1DM idm+ -->
-	<item component="ComponentInfo{idm.internet.download.manager/idm.internet.download.manager.MainActivity}" drawable="idm_plus"/>
+    <item component="ComponentInfo{idm.internet.download.manager/idm.internet.download.manager.MainActivity}" drawable="idm_plus"/>
     <item component="ComponentInfo{idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity}" drawable="idm_plus"/>
     <item component="ComponentInfo{idm.internet.download.naws.pro/idm.internet.download.manager.MainActivity}" drawable="idm_plus" />
     <!-- Mora -->
-	<item component="ComponentInfo{jp.co.labelgate.moratouch/jp.co.labelgate.moraroid.activity.init.Init}" drawable="mora"/>
+    <item component="ComponentInfo{jp.co.labelgate.moratouch/jp.co.labelgate.moraroid.activity.init.Init}" drawable="mora"/>
     <!-- Malody V -->
-	<item component="ComponentInfo{me.mugzone.emiria/com.unity3d.player.UnityPlayerActivity}" drawable="malody_v"/>
+    <item component="ComponentInfo{me.mugzone.emiria/com.unity3d.player.UnityPlayerActivity}" drawable="malody_v"/>
     <!-- APKMirror Installer Beta -->
-	<item component="ComponentInfo{com.apkmirror.helper.prod/com.apkmirror.presentation.start.StartActivity}" drawable="apkmirror_installer_beta"/>
+    <item component="ComponentInfo{com.apkmirror.helper.prod/com.apkmirror.presentation.start.StartActivity}" drawable="apkmirror_installer_beta"/>
     <!-- Morse -->
-	<item component="ComponentInfo{net.marlove.morse/net.marlove.morse.MainActivity}" drawable="morse"/>
+    <item component="ComponentInfo{net.marlove.morse/net.marlove.morse.MainActivity}" drawable="morse"/>
     <!-- UnicodePad -->
-	<item component="ComponentInfo{jp.ddo.hotmist.unicodepad/jp.ddo.hotmist.unicodepad.UnicodeActivity}" drawable="unicodepad"/>
+    <item component="ComponentInfo{jp.ddo.hotmist.unicodepad/jp.ddo.hotmist.unicodepad.UnicodeActivity}" drawable="unicodepad"/>
     <!-- Symbolab -->
-	<item component="ComponentInfo{com.devsense.symbolab/com.symbolab.symbolablibrary.ui.activities.SplashActivity}" drawable="symbolab"/>
+    <item component="ComponentInfo{com.devsense.symbolab/com.symbolab.symbolablibrary.ui.activities.SplashActivity}" drawable="symbolab"/>
     <!-- Codec -->
-	<item component="ComponentInfo{duy.com.text_converter/com.duy.text.converter.activities.MainActivity}" drawable="codec"/>
+    <item component="ComponentInfo{duy.com.text_converter/com.duy.text.converter.activities.MainActivity}" drawable="codec"/>
     <!-- 京豆 -->
-	<item component="ComponentInfo{com.wj.jd/com.wj.jd.MainActivity}" drawable="jingdou"/>
+    <item component="ComponentInfo{com.wj.jd/com.wj.jd.MainActivity}" drawable="jingdou"/>
     <!-- Open2share -->
-	<item component="ComponentInfo{top.linesoft.open2share/top.linesoft.open2share.unhide_icon}" drawable="open2share"/>
+    <item component="ComponentInfo{top.linesoft.open2share/top.linesoft.open2share.unhide_icon}" drawable="open2share"/>
     <!-- Nike Run Club -->
-	<item component="ComponentInfo{com.nike.plusgps/com.nike.plusgps.SplashActivity}" drawable="nike_run_club"/>
+    <item component="ComponentInfo{com.nike.plusgps/com.nike.plusgps.SplashActivity}" drawable="nike_run_club"/>
     <!-- GetAPK -->
-	<item component="ComponentInfo{com.tgc.getapk/com.tgc.getapk.MainActivity}" drawable="getapk"/>
+    <item component="ComponentInfo{com.tgc.getapk/com.tgc.getapk.MainActivity}" drawable="getapk"/>
     <!-- RS File Manager -->
-	<item component="ComponentInfo{com.rs.explorer.filemanager/com.edili.filemanager.module.activity.FirstActivity}" drawable="rs_file_manager"/>
+    <item component="ComponentInfo{com.rs.explorer.filemanager/com.edili.filemanager.module.activity.FirstActivity}" drawable="rs_file_manager"/>
     <!-- LibChecker -->
-	<item component="ComponentInfo{com.absinthe.libchecker/com.absinthe.libchecker.ui.main.MainActivity}" drawable="libchecker"/>
+    <item component="ComponentInfo{com.absinthe.libchecker/com.absinthe.libchecker.ui.main.MainActivity}" drawable="libchecker"/>
     <!-- Days Matter -->
-	<item component="ComponentInfo{com.clover.daysmatter/com.clover.daysmatter.ui.activity.MainActivity}" drawable="days_matter" />
+    <item component="ComponentInfo{com.clover.daysmatter/com.clover.daysmatter.ui.activity.MainActivity}" drawable="days_matter" />
     <!-- Bee Notes -->
-	<item component="ComponentInfo{xyz.hanks.note/xyz.hanks.note.ui.activity.MainActivity}" drawable="bee_notes"/>
+    <item component="ComponentInfo{xyz.hanks.note/xyz.hanks.note.ui.activity.MainActivity}" drawable="bee_notes"/>
     <!-- 咪咕音乐 -->
     <item component="ComponentInfo{cmccwm.mobilemusic/cmccwm.mobilemusic.ui.base.SplashActivity}" drawable="migu_music" />
     <item component="ComponentInfo{cmccwm.mobilemusic/cmccwm.mobilemusic.ui.SplashActivity}" drawable="migu_music"/>
@@ -140,39 +140,39 @@
     <item component="ComponentInfo{com.sspai.sspaiandroid/com.sspai.sspaiandroid.activities.MainTabActivity}" drawable="sspai" />
     <item component="ComponentInfo{com.sspai.sspaiandroid/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="sspai"/>
     <!-- Moon FM -->
-	<item component="ComponentInfo{fm.moon.app/com.icyarrow.haloradio.MainActivity}" drawable="moon_fm" />
+    <item component="ComponentInfo{fm.moon.app/com.icyarrow.haloradio.MainActivity}" drawable="moon_fm" />
     <!-- U净 -->
     <item component="ComponentInfo{com.midea.vm.washer/com.midea.vm.washer.MainActivity}" drawable="midea_ujing" />
     <item component="ComponentInfo{com.midea.vm.washer/com.midea.vm.washer.ui.activity.SplashActivity}" drawable="midea_ujing"/>
     <!-- 云班课 -->
     <item component="ComponentInfo{com.mosoink.teach/com.mosoink.teach.MainActivity}" drawable="mosoink_teach" />
     <!-- Surf VPN -->
-	<item component="ComponentInfo{com.xfx.surfvpn/com.xfx.surfvpn.MainActivity}" drawable="surf_vpn"/>
+    <item component="ComponentInfo{com.xfx.surfvpn/com.xfx.surfvpn.MainActivity}" drawable="surf_vpn"/>
     <!-- 知鱼影视 -->
-	<item component="ComponentInfo{com.miaojing.phone.customer.aewafr/com.miaojing.phone.customer.aewafr.MainActivity}" drawable="zhiyu"/>
+    <item component="ComponentInfo{com.miaojing.phone.customer.aewafr/com.miaojing.phone.customer.aewafr.MainActivity}" drawable="zhiyu"/>
     <!-- 知到 -->
-	<item component="ComponentInfo{com.able.wisdomtree/com.able.wisdomtree.jpush.OutLineActivity}" drawable="wisdomtree"/>
+    <item component="ComponentInfo{com.able.wisdomtree/com.able.wisdomtree.jpush.OutLineActivity}" drawable="wisdomtree"/>
     <item component="ComponentInfo{com.able.wisdomtree/com.able.wisdomtree.login.StartActivity}" drawable="wisdomtree" />
     <item component="ComponentInfo{com.able.wisdomtree/com.able.wisdomtree.login.PermissionsActivity}" drawable="wisdomtree" />
     <!-- 盒马 -->
-	<item component="ComponentInfo{com.wudaokou.hippo/com.wudaokou.hippo.launcher.splash.SplashActivity}" drawable="hema"/>
-	<item component="ComponentInfo{com.wudaokou.hippo/com.wudaokou.hippo.base.activity.splash.InitActivity}" drawable="hema" />
+    <item component="ComponentInfo{com.wudaokou.hippo/com.wudaokou.hippo.launcher.splash.SplashActivity}" drawable="hema"/>
+    <item component="ComponentInfo{com.wudaokou.hippo/com.wudaokou.hippo.base.activity.splash.InitActivity}" drawable="hema" />
     <!-- 黄油相机 -->
-	<item component="ComponentInfo{com.by.butter.camera/com.by.butter.camera.splash.LauncherActivityButterman}" drawable="butter_camera"/>
-	<item component="ComponentInfo{com.by.butter.camera/com.by.butter.camera.splash.LauncherActivity}" drawable="butter_camera"/>
+    <item component="ComponentInfo{com.by.butter.camera/com.by.butter.camera.splash.LauncherActivityButterman}" drawable="butter_camera"/>
+    <item component="ComponentInfo{com.by.butter.camera/com.by.butter.camera.splash.LauncherActivity}" drawable="butter_camera"/>
     <!-- Faceu激萌 -->
-	<item component="ComponentInfo{com.lemon.faceu/com.android.maya.activity.SplashActivity}" drawable="faceu"/>
-	<item component="ComponentInfo{com.lemon.faceu/com.lemon.faceu.camera.CameraActivity}" drawable="faceu" />
-    <!-- 抖音国际版 -->
-	<item component="ComponentInfo{com.ss.android.ugc.trill/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tiktok"/>
+    <item component="ComponentInfo{com.lemon.faceu/com.android.maya.activity.SplashActivity}" drawable="faceu"/>
+    <item component="ComponentInfo{com.lemon.faceu/com.lemon.faceu.camera.CameraActivity}" drawable="faceu" />
+    <!-- 抖音国际版 / TikTok  -->
+    <item component="ComponentInfo{com.ss.android.ugc.trill/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tiktok"/>
     <item component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tiktok" />
     <!-- Tap Tap -->
     <item component="ComponentInfo{com.taptap/com.play.taptap.ui.MainAct}" drawable="tap_tap" />
-	<item component="ComponentInfo{com.taptap/com.play.taptap.ui.SplashAct}" drawable="tap_tap" />
+    <item component="ComponentInfo{com.taptap/com.play.taptap.ui.SplashAct}" drawable="tap_tap" />
     <item component="ComponentInfo{com.taptap.global/com.play.taptap.ui.SplashAct}" drawable="tap_tap"/>
-	<item component="ComponentInfo{com.kieronquinn.app.taptap/com.kieronquinn.app.taptap.ui.activities.SettingsActivity}" drawable="tap_tap"/>
+    <item component="ComponentInfo{com.kieronquinn.app.taptap/com.kieronquinn.app.taptap.ui.activities.SettingsActivity}" drawable="tap_tap"/>
     <!-- Manual Cam -->
-	<item component="ComponentInfo{com.lensesdev.manual.camera.professional/com.antafunny.burstcamera.MainActivity}" drawable="manual_cam"/>
+    <item component="ComponentInfo{com.lensesdev.manual.camera.professional/com.antafunny.burstcamera.MainActivity}" drawable="manual_cam"/>
     <!-- 腾讯自选股 -->
     <item component="ComponentInfo{com.tencent.portfolio/com.tencent.portfolio.splash.PrivacyGuideActivity}" drawable="tencent_portfolio" />
     <!-- 图标包名提取 / 图标包名提取 -->
