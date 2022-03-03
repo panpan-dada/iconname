@@ -177,4 +177,7 @@
     <item component="ComponentInfo{com.tencent.portfolio/com.tencent.portfolio.splash.PrivacyGuideActivity}" drawable="tencent_portfolio" />
     <!-- 图标包名提取 / iconname -->
     <item component="ComponentInfo{com.panpandada.iconname/com.panpandada.iocnname.MainActivity}" drawable="iconname" />
+    <!-- 微信 / wechat -->
+    <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="wechat" />
+	<item component="ComponentInfo{com.tencent.mm/com.oasisfeng.nevo.agents.v1.wechat}" drawable="wechat" />
 </resources>
