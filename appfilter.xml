@@ -9,8 +9,8 @@
 <!-- 游戏 / Games -->
     <!-- 香肠派对 / sausage man -->
     <item component="ComponentInfo{com.sofunny.Sausage/com.funny.FunActivity}" drawable="sausage" />
-	<item component="ComponentInfo{com.sofunny.chickendinnerfirst/com.funny.FunActivity}" drawable="sausage" />
-	<item component="ComponentInfo{com.sofunny.Chicken/com.unity3d.player.UnityPlayerActivity}" drawable="sausage" />
+    <item component="ComponentInfo{com.sofunny.chickendinnerfirst/com.funny.FunActivity}" drawable="sausage" />
+    <item component="ComponentInfo{com.sofunny.Chicken/com.unity3d.player.UnityPlayerActivity}" drawable="sausage" />
 <!-- 应用 / Apps -->
     <!-- 花火阅读 -->
     <item component="ComponentInfo{tech.gentleflow.fireworksreader/tech.gentleflow.fireworksreader.MainActivity}" drawable="fireworks_reader" />
