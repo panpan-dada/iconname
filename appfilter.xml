@@ -189,78 +189,78 @@
     <!-- 网格管理 -->
     <item component="ComponentInfo{com.ccb.wggl/com.ccb.clockIn.ui.start.StartPageActivity}" drawable="wanggeguanli"/>
     <!-- 爱回收 -->
-	<item component="ComponentInfo{aihuishou.aihuishouapp/aihuishou.aihuishouapp.recycle.activity.intro.SplashActivityKt}" drawable="aihuishou"/>
-	<item component="ComponentInfo{aihuishou.aihuishouapp/aihuishou.aihuishouapp.recycle.activity.intro.SplashActivity}" drawable="aihuishou" />
+    <item component="ComponentInfo{aihuishou.aihuishouapp/aihuishou.aihuishouapp.recycle.activity.intro.SplashActivityKt}" drawable="aihuishou"/>
+    <item component="ComponentInfo{aihuishou.aihuishouapp/aihuishou.aihuishouapp.recycle.activity.intro.SplashActivity}" drawable="aihuishou" />
     <!-- 安居客 -->
-	<item component="ComponentInfo{com.anjuke.android.app/com.anjuke.android.app.mainmodule.WelcomeActivity}" drawable="anjuke"/>
-	<item component="ComponentInfo{com.anjuke.android.app/com.anjuke.android.app.WelcomeActivity}" drawable="anjuke" />
+    <item component="ComponentInfo{com.anjuke.android.app/com.anjuke.android.app.mainmodule.WelcomeActivity}" drawable="anjuke"/>
+    <item component="ComponentInfo{com.anjuke.android.app/com.anjuke.android.app.WelcomeActivity}" drawable="anjuke" />
     <!-- 百度网盘 -->
-	<item component="ComponentInfo{com.baidu.netdisk/com.baidu.netdisk.ui.Navigate}" drawable="baidu_netdisk" />
+    <item component="ComponentInfo{com.baidu.netdisk/com.baidu.netdisk.ui.Navigate}" drawable="baidu_netdisk" />
     <item component="ComponentInfo{com.baidu.netdisk/com.baidu.netdisk.ui.DefaultMainActivity}" drawable="baidu_netdisk"/>
-	<item component="ComponentInfo{com.baidu.netdisk/com.baidu.netdisk.ui.SvipLauncherActivity}" drawable="baidu_netdisk"/>
+    <item component="ComponentInfo{com.baidu.netdisk/com.baidu.netdisk.ui.SvipLauncherActivity}" drawable="baidu_netdisk"/>
     <item component="ComponentInfo{com.baidu.netdisk.xiaomi.appunion/com.baidu.netdisk.ui.Navigate}" drawable="baidu_netdisk"/>
-	<item component="ComponentInfo{com.baidu.netdisk.samsung/com.baidu.netdisk.ui.SvipLauncherActivity}" drawable="baidu_netdisk"/>
+    <item component="ComponentInfo{com.baidu.netdisk.samsung/com.baidu.netdisk.ui.SvipLauncherActivity}" drawable="baidu_netdisk"/>
     <!-- 和家亲 -->
-	<item component="ComponentInfo{com.cmri.universalapp/com.cmri.universalapp.splash.activity.SplashActivity}" drawable="cmri_universal"/>
+    <item component="ComponentInfo{com.cmri.universalapp/com.cmri.universalapp.splash.activity.SplashActivity}" drawable="cmri_universal"/>
     <item component="ComponentInfo{com.cmri.universalapp/com.cmri.universalapp.login.activity.SplashActivity}" drawable="cmri_universal" />
     <!-- 湖北农信 -->
-	<item component="ComponentInfo{cn.com.nxy.mbank.hb/com.yitong.mbank.app.android.activity.SplashActivity}" drawable="bank_hbxh"/>
+    <item component="ComponentInfo{cn.com.nxy.mbank.hb/com.yitong.mbank.app.android.activity.SplashActivity}" drawable="bank_hbxh"/>
     <!-- 货拉拉 -->
-	<item component="ComponentInfo{com.lalamove.huolala.client/com.lalamove.huolala.main.SplashActivity}" drawable="huolala"/>
+    <item component="ComponentInfo{com.lalamove.huolala.client/com.lalamove.huolala.main.SplashActivity}" drawable="huolala"/>
     <item component="ComponentInfo{com.lalamove.huolala.client/com.lalamove.huolala.client.MainActivity}" drawable="huolala" />
     <!-- 加油中石化 -->
-	<item component="ComponentInfo{cn.com.hkgt.gasapp/cn.com.hkgt.gasapp.activity.start.AppStartActivity}" drawable="sinopec"/>
+    <item component="ComponentInfo{cn.com.hkgt.gasapp/cn.com.hkgt.gasapp.activity.start.AppStartActivity}" drawable="sinopec"/>
     <item component="ComponentInfo{cn.com.hkgt.gasapp/cn.com.hkgt.gasapp.AppStartActivity}" drawable="sinopec" />
     <!-- 锦江酒店 -->
-	<item component="ComponentInfo{com.plateno.botaoota/com.wehotel.app.ui.WhProtocolActivity}" drawable="jinjiang_hotels"/>
+    <item component="ComponentInfo{com.plateno.botaoota/com.wehotel.app.ui.WhProtocolActivity}" drawable="jinjiang_hotels"/>
     <item component="ComponentInfo{com.plateno.botaoota/com.plateno.botaoota.ui.LaunchActivity}" drawable="jinjiang_hotels" />
     <!-- 石墨文档 -->
-	<item component="ComponentInfo{chuxin.shimo.shimowendang/chuxin.shimo.shimowendang.WelcomeActivity}" drawable="shimo"/>
+    <item component="ComponentInfo{chuxin.shimo.shimowendang/chuxin.shimo.shimowendang.WelcomeActivity}" drawable="shimo"/>
     <item component="ComponentInfo{chuxin.shimo.shimowendang/chuxin.shimo.Home.SplashActivity}" drawable="shimo" />
     <!-- 58同城 -->
-	<item component="ComponentInfo{com.wuba/com.wuba.default}" drawable="wuba"/>
-	<item component="ComponentInfo{com.wuba/com.wuba.activity.launch.LaunchActivity}" drawable="wuba" />
+    <item component="ComponentInfo{com.wuba/com.wuba.default}" drawable="wuba"/>
+    <item component="ComponentInfo{com.wuba/com.wuba.activity.launch.LaunchActivity}" drawable="wuba" />
     <!-- Booking Com -->
-	<item component="ComponentInfo{com.booking/com.booking.startup.HomeActivity}" drawable="booking"/>
+    <item component="ComponentInfo{com.booking/com.booking.startup.HomeActivity}" drawable="booking"/>
     <item component="ComponentInfo{com.booking/com.booking.activity.StartActivity}" drawable="booking" />
     <!-- 乐播投屏 / HappyCast -->
-	<item component="ComponentInfo{com.hpplay.happycast/com.hpplay.happycast.activitys.SplashActivity}" drawable="happycast"/>
+    <item component="ComponentInfo{com.hpplay.happycast/com.hpplay.happycast.activitys.SplashActivity}" drawable="happycast"/>
     <item component="ComponentInfo{com.hpplay.happycast/com.hpplay.happycast.WelcomeActivity}" drawable="happycast" />
     <item component="ComponentInfo{com.hpplay.happycast.allcast/com.hpplay.happycast.WelcomeActivity}" drawable="happycast" />
     <!-- 爱家康 -->
-	<item component="ComponentInfo{iHealth.AiJiaKang.MI/com.ihealth.aijiakang.ui.user.login.User_Welcome}" drawable="ihealth"/>
+    <item component="ComponentInfo{iHealth.AiJiaKang.MI/com.ihealth.aijiakang.ui.user.login.User_Welcome}" drawable="ihealth"/>
     <!-- 读者杂志 -->
-	<item component="ComponentInfo{com.fumei.dz/com.fumei.template.WelcomeActivity}" drawable="duzhe"/>
+    <item component="ComponentInfo{com.fumei.dz/com.fumei.template.WelcomeActivity}" drawable="duzhe"/>
     <!-- 拾柒 -->
-	<item component="ComponentInfo{com.shiqichuban.android/com.shiqichuban.activity.SplashActivity}" drawable="shiqi"/>
+    <item component="ComponentInfo{com.shiqichuban.android/com.shiqichuban.activity.SplashActivity}" drawable="shiqi"/>
     <!-- 沃钱包 -->
-	<item component="ComponentInfo{com.unicom.wopay/com.unicom.wopay.app.LauncherActivity}" drawable="wopay"/>
+    <item component="ComponentInfo{com.unicom.wopay/com.unicom.wopay.app.LauncherActivity}" drawable="wopay"/>
     <item component="ComponentInfo{com.unicom.wopay/com.unicom.wopay.app.MainActivity}" drawable="wopay"/>
     <!-- 土豆视频 -->
-	<item component="ComponentInfo{com.tudou.android/com.youku.phone.ActivityWelcome}" drawable="tudou"/>
+    <item component="ComponentInfo{com.tudou.android/com.youku.phone.ActivityWelcome}" drawable="tudou"/>
     <!-- Download Navi -->
-	<item component="ComponentInfo{com.tachibana.downloader/com.tachibana.downloader.ui.main.MainActivity}" drawable="download_navi"/>
+    <item component="ComponentInfo{com.tachibana.downloader/com.tachibana.downloader.ui.main.MainActivity}" drawable="download_navi"/>
     <!-- LSPosed -->
-	<item component="ComponentInfo{org.lsposed.manager/org.lsposed.manager.ui.activity.MainActivity}" drawable="lsposed"/>
+    <item component="ComponentInfo{org.lsposed.manager/org.lsposed.manager.ui.activity.MainActivity}" drawable="lsposed"/>
     <!-- Hide My Applist -->
     <item component="ComponentInfo{com.tsng.hidemyapplist/com.tsng.hidemyapplist.MainActivityLauncher}" drawable="hide_my_applist"/>
     <!-- Pi -->
-	<item component="ComponentInfo{com.blockchainvault/com.pinetwork.MainActivity}" drawable="pi"/>
+    <item component="ComponentInfo{com.blockchainvault/com.pinetwork.MainActivity}" drawable="pi"/>
     <!-- Pi Browser -->
-	<item component="ComponentInfo{pi.browser/com.pinetwork.MainActivity}" drawable="pi_browser"/>
+    <item component="ComponentInfo{pi.browser/com.pinetwork.MainActivity}" drawable="pi_browser"/>
     <!-- SAI -->
-	<item component="ComponentInfo{com.aefyr.sai/com.aefyr.sai.ui.activities.MainActivity}" drawable="sai"/>
+    <item component="ComponentInfo{com.aefyr.sai/com.aefyr.sai.ui.activities.MainActivity}" drawable="sai"/>
     <!-- Dropbox -->
-	<item component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DropboxBrowser}" drawable="dropbox"/>
+    <item component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DropboxBrowser}" drawable="dropbox"/>
     <!-- 115 -->
     <item component="ComponentInfo{com.ylmf.androidclient/com.main.partner.user.activity.LogActivity}" drawable="ylmf_115"/>
-	<item component="ComponentInfo{com.ylmf.androidclient/com.ylmf.androidclient.UI.LogActivity}" drawable="ylmf_115" />
+    <item component="ComponentInfo{com.ylmf.androidclient/com.ylmf.androidclient.UI.LogActivity}" drawable="ylmf_115" />
     <!-- Biubiu加速器 -->
     <item component="ComponentInfo{com.njh.biubiu/com.njh.ping.launcher.LauncherActivity}" drawable="biubiu"/>
     <!-- IbisPaint X -->
-	<item component="ComponentInfo{jp.ne.ibis.ibispaintx.app/jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity}" drawable="ibispaint_x"/>
+    <item component="ComponentInfo{jp.ne.ibis.ibispaintx.app/jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity}" drawable="ibispaint_x"/>
     <!-- 个人所得税 -->
-	<item component="ComponentInfo{cn.gov.tax.its/cn.gov.tax.its.MainActivity}" drawable="tax"/>
+    <item component="ComponentInfo{cn.gov.tax.its/cn.gov.tax.its.MainActivity}" drawable="tax"/>
     <!-- 萤石云视频 -->
     <item component="ComponentInfo{com.videogo/com.videogo.login.LoadingActivity}" drawable="videogo" />
     <item component="ComponentInfo{com.videogo/com.videogo.LauncherActivity}" drawable="videogo"/>
