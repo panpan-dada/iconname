@@ -187,5 +187,5 @@
     <!-- 微信 / wechat -->
     <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="wechat" />
     <!-- 网格管理 -->
-	<item component="ComponentInfo{com.ccb.wggl/com.ccb.clockIn.ui.start.StartPageActivity}" drawable="wanggeguanli"/>
+    <item component="ComponentInfo{com.ccb.wggl/com.ccb.clockIn.ui.start.StartPageActivity}" drawable="wanggeguanli"/>
 </resources>
