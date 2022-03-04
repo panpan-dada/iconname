@@ -6,6 +6,12 @@
 <!-- item component="ComponentInfo{com.wps.excellentclass/com.wps.excellentclass.MainActivity}" drawable="wps_excellentclass" / -->
 <!-- 上面这一行ComponentInfo{}大括号内 com.wps.excellentclass 就是包名，com.wps.excellentclass.MainActivity 就是包名进程，可直接复制粘贴使用 -->
 <resources>
+<!-- 游戏 / Games -->
+    <!-- 香肠派对 / sausage man -->
+    <item component="ComponentInfo{com.sofunny.Sausage/com.funny.FunActivity}" drawable="sausage" />
+	<item component="ComponentInfo{com.sofunny.chickendinnerfirst/com.funny.FunActivity}" drawable="sausage" />
+	<item component="ComponentInfo{com.sofunny.Chicken/com.unity3d.player.UnityPlayerActivity}" drawable="sausage" />
+<!-- 应用 / Apps -->
     <!-- 花火阅读 -->
     <item component="ComponentInfo{tech.gentleflow.fireworksreader/tech.gentleflow.fireworksreader.MainActivity}" drawable="fireworks_reader" />
     <!-- 心心 -->
